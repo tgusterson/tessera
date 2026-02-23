@@ -1,0 +1,12 @@
+# Dependencies
+node_modules
+packages/*/pnpm-lock.yaml
+
+# Build output
+dist
+
+# TypeScript
+*.tsbuildinfo
+
+# OS
+.DS_Store

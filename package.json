@@ -1,0 +1,13 @@
+{
+  "name": "tessera",
+  "private": true,
+  "description": "A headless, framework-agnostic tiling window manager for TypeScript",
+  "scripts": {
+    "build": "pnpm -r build",
+    "test": "pnpm -r test",
+    "dev": "pnpm -r --parallel dev"
+  },
+  "author": "Thomas Gusterson",
+  "license": "MIT",
+  "packageManager": "pnpm@10.28.1"
+}
